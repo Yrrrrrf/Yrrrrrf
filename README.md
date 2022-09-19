@@ -23,8 +23,8 @@
 <!-- STATS -->
 <br/> <br/> <br/> <br/> <br/>
 ### Statistics
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=yrrrrrf&show_icons=true&theme=radical" />
-<img align="left" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yrrrrrf&layout=compact&theme=radical" />
+<img align="left" width="44%" src="https://github-readme-stats.vercel.app/api?username=yrrrrrf&show_icons=true&theme=radical" />
+<img align="left" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yrrrrrf&layout=compact&theme=radical" />
 
 
 <!-- TOOLS -->
