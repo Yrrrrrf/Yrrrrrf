@@ -13,13 +13,6 @@
 - 📫 How to reach me **fernandorezacampos@gmail.com**
 
 
-
-<!-- REPOSITORIES -->
-### I'm currently working on:
-<img align="left"  src="https://github-readme-stats.vercel.app/api/pin/?username=yrrrrrf&repo=project-canvas&theme=radical" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yrrrrrf&repo=school-management&theme=radical" />
-
-
 <!-- STATS -->
 <br/> <br/> <br/> <br/> <br/>
 ### Statistics
