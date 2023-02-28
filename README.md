@@ -1,33 +1,23 @@
-
 <h1 align="center">Hi 👋, I'm Yrrrrrf</h1>
-<!-- ABSTRACT -->
-<h3 align="center">I'm a computer engineering student.</h3>
 
-
-- 🔭 I’m currently working on **Digital Image Processing & remote databases**
-
-- 🌱 I’m currently learning **data visualization python libraries**
-
-- 👯 I’m looking to collaborate on **Kotlin projects**
-
-- 📫 How to reach me **fernandorezacampos@gmail.com**
-
-
-<!-- STATS -->
-<br/> <br/> <br/> <br/> <br/>
-### Statistics
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=yrrrrrf&show_icons=true&theme=radical" />
-<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yrrrrrf&layout=compact&theme=radical" />
-
-
-<!-- TOOLS -->
-<br/> <br/> <br/> <br/> <br/> <br/> <br/>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-
-<!-- CONTACT DATA -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fernando-reza-campos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando-reza-campos" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/konstantinos-georgiou/"> <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin"> </a>
+<a href="mailto:fernandorezacampos@gmail.com"> <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"> </a>
+<a href="https://github.com/Yrrrrrf"> <img src="https://github-stats-alpha.vercel.app/api?username=Yrrrrrf&cc=22272e&tc=37BCF6&ic=fff&bc=0000"> </a>
 </p>
+
+* 📖 Computer Engineering Student @ [UAEMéx](https://fi.uaemex.mx/portal/coordinacion/ICO/index.php). 
+* 🎓 Currently studing **AI**, **Computer Architecture** and **Compilers**.
+* 💡 Open to collaborating on projects and innovative ideas.
+
+### 🖥️ Open-Source Projects
+
+| Title | Technologies |
+|---|---|
+| [chess master IA](https://github.com/Yrrrrrf/chess-master) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy) |
+| [project canvas](https://github.com/Yrrrrrf/project-canvas) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
+
+### 📈 Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yrrrrrf&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yrrrrrf&theme=dracula) 
