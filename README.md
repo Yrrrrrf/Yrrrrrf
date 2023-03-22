@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yrrrrrf</h1>
 
-<a href="https://www.linkedin.com/in/konstantinos-georgiou/"> <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin"> </a>
+<a href="https://www.linkedin.com/in/fernando-reza-campos/"> <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin"> </a>
 <a href="mailto:fernandorezacampos@gmail.com"> <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"> </a>
 <a href="https://github.com/Yrrrrrf"> <img src="https://github-stats-alpha.vercel.app/api?username=Yrrrrrf&cc=22272e&tc=37BCF6&ic=fff&bc=0000"> </a>
 </p>
