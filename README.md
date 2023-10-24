@@ -9,12 +9,14 @@
 * 🎓 Currently studing **AI**, **Computer Architecture** and **Compilers**.
 * 💡 Open to collaborating on projects and innovative ideas.
 
+<!-- 
 ### 🖥️ Open-Source Projects
 
 | Title | Technologies |
 |---|---|
 | [chess master IA](https://github.com/Yrrrrrf/chess-master) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy) |
 | [project canvas](https://github.com/Yrrrrrf/project-canvas) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
+ -->
 
 ### 📈 Stats
 
