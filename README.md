@@ -6,12 +6,14 @@
 </p>
 
 * 📖 Computer Engineering Student @ [UAEMéx](https://fi.uaemex.mx/portal/coordinacion/ICO/index.php).
-* 🎓 Currently improving fundamental skills like **Compilers** process, **Discrete Logic**, and **Meta-Programming (macros)**.
-* 💡 Passionate about **Rust** & **Python** programming languages.
-* 📚 Trying to create new [useful tools](https://crates.io/crates/dev_utils) for the community.
-* 🚀 Experienced in developing web apps with **PostgreSQL**, **FastAPI**, and **Svelte**.
-* 🌱 Always eager to learn and grow, both personally and professionally.
-* 🤝 Open to collaborating on projects and innovative ideas.
+* 🔬 Specialized in **microservices architecture** and **high-performance systems** using Rust.
+* 💡 Passionate about **Rust** for developing efficient, secure, and reliable backend services.
+* 🛠️ Experienced with **asynchronous programming** using **Tokio** and **Hyper** for web services.
+* ☁️ Working with **Google Cloud** services including Cloud Run, Cloud SQL, and Cloud Storage.
+* 🔒 Implementing security best practices with encryption techniques and OWASP guidelines.
+* 📚 Creator of [useful tools](https://crates.io/crates/dev_utils) for the developer community.
+* 🚀 Full-stack experience with **PostgreSQL**, **FastAPI**, and **Svelte**.
+* 🤝 Open to collaborating on innovative projects with cutting-edge technologies.
 
 ### 📈 Stats
 
@@ -26,8 +28,15 @@
 ![WSL](https://img.shields.io/badge/-WSL-4D4D4D?style=flat-square&logo=windows&logoColor=white)
 
 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust&logoColor=white)
+![Tokio](https://img.shields.io/badge/-Tokio-2C3E50?style=flat-square&logo=rust&logoColor=white)
+![Hyper](https://img.shields.io/badge/-Hyper-504E94?style=flat-square&logo=rust&logoColor=white)
 ![Cargo](https://img.shields.io/badge/-Cargo-5E5E5E?style=flat-square&logo=rust&logoColor=white)
 ![Crates.io](https://img.shields.io/badge/-Crates.io-188F1C?style=flat-square&logo=rust&logoColor=white)
+
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-1F2937?style=flat-square&logo=fastapi&logoColor=white)
 
 ![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat-square&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
@@ -40,9 +49,6 @@
 ![Skeleton](https://img.shields.io/badge/-Skeleton-7C4DFF?style=flat-square&logo=skeleton&logoColor=white)
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
-![mamba](https://img.shields.io/badge/-mamba-44A833?style=flat-square&logo=anaconda&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![PyQt6](https://img.shields.io/badge/-PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/-Pydantic-4B8BBE?style=flat-square&logo=pydantic&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FF4B4B?style=flat-square&logo=sqlalchemy&logoColor=white)
@@ -53,8 +59,10 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white)
 
-<!-- todo: Learn this tech to improve my general dev skills... -->
-<!-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) -->
-<!-- ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) -->
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![API REST](https://img.shields.io/badge/-API_REST-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Web Services](https://img.shields.io/badge/-Web_Services-0496FF?style=flat-square&logo=amazon-aws&logoColor=white)
+
+<!-- Future technologies to learn -->
 <!-- ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white) -->
 <!-- ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) -->
